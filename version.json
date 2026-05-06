@@ -1,0 +1,14 @@
+{
+  "version": "26.0.1.a",
+  "release_date": "2026-05-06",
+  "title": "JaWs Terminal v26.0.1.a",
+  "description": "First public release. Stable MT5 integration and AI analyst tab.",
+  "changelog": [
+    "Initial public release",
+    "Live tick streaming for major pairs",
+    "AI analyst tab (requires LM Studio)",
+    "Trade journal with persistence"
+  ],
+  "banner_image": "https://www.apple.com/v/iphone/home/cj/images/overview/select/iphone_air__b5qmgl05ojyq_large.jpg",
+  "download_url": "https://www.apple.com/"
+}
